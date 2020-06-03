@@ -39,6 +39,8 @@ install_requires = [
     'pyasn1-modules>=0.0.5',
     'rsa>=3.1.4',
     'six>=1.6.1',
+    'jsonpickle>=1.4.1',
+    'google-api-python-client>=1.9.1'
 ]
 
 long_desc = """
