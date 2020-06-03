@@ -59,7 +59,7 @@ setup(
     long_description=long_desc,
     author='Google Inc.',
     author_email='',
-    url='https://github.com/SimpleTax/oauth2client/',
+    url='https://github.com/SimpleTax/oauth2client',
     install_requires=install_requires,
     packages=find_packages(exclude=('tests*',)),
     license='Apache 2.0',
